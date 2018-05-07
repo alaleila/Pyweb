@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon May  7 15:52:04 2018
-
-@author: YHF
+python2.7
 """
 
-import web.py
+import web
 
 urls = (
 '/', 'index'
